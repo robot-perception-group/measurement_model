@@ -22,3 +22,4 @@ The mat files used for plotting the noise and its variance can be generated usin
 
 To regenerate the .mat files used for plotting, substitute <name> with radial , bearing , or inclination 
 
+To rerun the gazebo simulations please refer to the documentation  of https://github.com/AIRCAP/AIRCAP
